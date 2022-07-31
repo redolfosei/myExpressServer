@@ -1,0 +1,22 @@
+{
+  "name": "myexpressserver",
+  "version": "1.0.0",
+  "description": "\"My first express server.\"",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redolfosei/myExpressServer.git"
+  },
+  "author": "Redolf Osei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redolfosei/myExpressServer/issues"
+  },
+  "homepage": "https://github.com/redolfosei/myExpressServer#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
